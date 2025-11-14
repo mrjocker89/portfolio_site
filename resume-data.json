@@ -1,0 +1,55 @@
+{
+  "name": "Ugant Kumar Sharma",
+  "title": "Game Developer • Generative AI Specialist • Prompt Engineer • Ethical Hacker",
+  "description": "I build AI-driven game systems, automated pipelines and tools for faster, smarter game production.",
+  "skills": [
+    "Unity C#",
+    "Unreal Engine",
+    "Python",
+    "Blender 3D",
+    "Generative AI",
+    "Prompt Engineering",
+    "GPT-4 / GPT4All",
+    "Ethical Hacking",
+    "Game Systems Design",
+    "Procedural Generation",
+    "Whisper API",
+    "FBX Automation",
+    "Data Pipelines",
+    "Cisco Certified"
+  ],
+  "experience": [
+    {
+      "title": "Game Systems Developer",
+      "company": "Independent",
+      "duration": "2024 - Present",
+      "description": "Designed and implemented AI-driven game systems, corruption mechanics, and procedural content generation for Frostbound: Eternal Awakening."
+    },
+    {
+      "title": "3D Asset Automation Specialist",
+      "company": "Personal Projects",
+      "duration": "2023 - Present",
+      "description": "Created procedural Blender asset generators with metadata export and Unity integration for optimized LOD systems."
+    },
+    {
+      "title": "Generative AI Researcher",
+      "company": "Self-Directed Learning",
+      "duration": "2023 - Present",
+      "description": "Exploring local AI models (GPT4All, Whisper) for game development automation and content generation pipelines."
+    }
+  ],
+  "projects": [
+    {
+      "name": "Frostbound: Eternal Awakening",
+      "description": "AI-driven mythological survival RPG with advanced corruption mechanics, teleportation unlocks, and multiplayer progression systems."
+    },
+    {
+      "name": "Blender Asset Generator",
+      "description": "Procedural low-poly generator with metadata export for Unity, supporting LODs and randomized foliage generation."
+    },
+    {
+      "name": "Unity AutoPrefabImporter",
+      "description": "Advanced editor automation tool for configuring imported prefabs using JSON metadata (LODGroups, colliders, materials)."
+    }
+  ]
+}
